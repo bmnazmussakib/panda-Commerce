@@ -1,0 +1,14 @@
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 15px;
+}
+.btn{
+    background-color: #ff136f;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 20px;
+}
